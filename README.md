@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josepereiroml
-- 👀 I’m interested in Computer Graphics and Programming
-- 🌱 I’m currently learning Three.js and Babylon.js
+- 👀 I’m interested in DevRel roles.
+- 🌱 I have experience in Python and Javascript.
 - 📫 How to reach me: josepereiroml@gmail.com
 <!---
 josepereiroml/josepereiroml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josepereiroml
-- 👀 I’m interested in DevRel roles.
+- 👀 I’m interested in 3D programming. 
 - 🌱 I have experience in Python and Javascript.
 - 📫 How to reach me: josepereiroml@gmail.com
 <!---
